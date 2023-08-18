@@ -1,0 +1,23 @@
+#ami{
+    color: blueviolet;
+}
+#brother{
+    color: aqua;
+}
+div{
+    background-color: lightblue;
+    display: block;
+    margin-left: 20px;
+    margin-right: 30px;
+    padding: 20px;
+}
+body{
+    margin-left: 30px;
+}
+p{
+    color: red;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+}
